@@ -7,7 +7,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Models\" />
+      <Folder Include="GameModes\Catch\" />
+      <Folder Include="GameModes\Mania\" />
+      <Folder Include="GameModes\Taiko\" />
     </ItemGroup>
 
 </Project>
