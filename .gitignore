@@ -1,0 +1,57 @@
+﻿# Build results
+bin/
+obj/
+
+# Rider-specific
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider logs and system files
+.idea/.idea/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/httpRequests
+.idea/.name
+.idea/usage.statistics.xml
+.idea/indexLayout.xml
+.idea/assetWizardSettings.xml
+.idea/.ideaModules/
+
+# VS Code settings (in case)
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Auto-generated files
+Generated_Code/
